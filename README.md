@@ -33,4 +33,4 @@ Para rodar a suite de testes inteira
 
 Para rodar para um par `entrada` e `saida` arbitrário, basta seguir o código abaixo e indicar caminho dos arquivos de entrada e saída
 
-    java -jar target/lalex-1.0-SNAPSHOT-jar-with-dependencies.jar path_entrada path_saida
+    java -jar target/lasin-1.0-SNAPSHOT-jar-with-dependencies.jar path_entrada path_saida
