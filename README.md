@@ -7,7 +7,7 @@
 ## Pedro Gonçalves dos Santos          794042
 
 
-# Analisador léxico para a Linguagem LA
+# Analisador sintático para a Linguagem LA
 
 ## Pré-requisitos
 
